@@ -1,0 +1,4 @@
+# STM32CubeIDE files
+.settings
+Debug
+Release
